@@ -1,0 +1,122 @@
+E:\S T U D Y\8th Semester\C#\PROJECT\Movie\Movie\bin\Debug\Movie.exe.config
+E:\S T U D Y\8th Semester\C#\PROJECT\Movie\Movie\bin\Debug\Movie.exe
+E:\S T U D Y\8th Semester\C#\PROJECT\Movie\Movie\bin\Debug\Movie.pdb
+E:\S T U D Y\8th Semester\C#\PROJECT\Movie\Movie\bin\Debug\MetroFramework.Design.dll
+E:\S T U D Y\8th Semester\C#\PROJECT\Movie\Movie\bin\Debug\MetroFramework.dll
+E:\S T U D Y\8th Semester\C#\PROJECT\Movie\Movie\bin\Debug\MetroFramework.Fonts.dll
+E:\S T U D Y\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.csprojAssemblyReference.cache
+E:\S T U D Y\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.Properties.Resources.resources
+E:\S T U D Y\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.csproj.GenerateResource.cache
+E:\S T U D Y\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.csproj.CoreCompileInputs.cache
+E:\S T U D Y\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.csproj.CopyComplete
+E:\S T U D Y\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.exe
+E:\S T U D Y\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.pdb
+E:\S T U D Y\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.Home.resources
+E:\S T U D Y\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.Login.resources
+E:\S T U D Y\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.ManageEmployee.resources
+E:\S T U D Y\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.BuyTicket.resources
+E:\S T U D Y\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.Confirmation.resources
+E:\S T U D Y\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.Upcomings.resources
+E:\S T U D Y\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.SetMovie.resources
+I:\Movie\Movie\bin\Debug\Movie.exe.config
+I:\Movie\Movie\bin\Debug\Movie.exe
+I:\Movie\Movie\bin\Debug\Movie.pdb
+I:\Movie\Movie\bin\Debug\MetroFramework.Design.dll
+I:\Movie\Movie\bin\Debug\MetroFramework.dll
+I:\Movie\Movie\bin\Debug\MetroFramework.Fonts.dll
+I:\Movie\Movie\obj\Debug\Movie.csprojAssemblyReference.cache
+I:\Movie\Movie\obj\Debug\Movie.BuyTicket.resources
+I:\Movie\Movie\obj\Debug\Movie.Confirmation.resources
+I:\Movie\Movie\obj\Debug\Movie.Home.resources
+I:\Movie\Movie\obj\Debug\Movie.Login.resources
+I:\Movie\Movie\obj\Debug\Movie.ManageEmployee.resources
+I:\Movie\Movie\obj\Debug\Movie.Properties.Resources.resources
+I:\Movie\Movie\obj\Debug\Movie.SetMovie.resources
+I:\Movie\Movie\obj\Debug\Movie.Upcomings.resources
+I:\Movie\Movie\obj\Debug\Movie.csproj.GenerateResource.cache
+I:\Movie\Movie\obj\Debug\Movie.csproj.CoreCompileInputs.cache
+I:\Movie\Movie\obj\Debug\Movie.csproj.CopyComplete
+I:\Movie\Movie\obj\Debug\Movie.exe
+I:\Movie\Movie\obj\Debug\Movie.pdb
+F:\Movie\Movie\bin\Debug\Movie.exe.config
+F:\Movie\Movie\bin\Debug\Movie.exe
+F:\Movie\Movie\bin\Debug\Movie.pdb
+F:\Movie\Movie\bin\Debug\MetroFramework.Design.dll
+F:\Movie\Movie\bin\Debug\MetroFramework.dll
+F:\Movie\Movie\bin\Debug\MetroFramework.Fonts.dll
+F:\Movie\Movie\obj\Debug\Movie.AdminHome.resources
+F:\Movie\Movie\obj\Debug\Movie.BuyTicket.resources
+F:\Movie\Movie\obj\Debug\Movie.ChangePassword.resources
+F:\Movie\Movie\obj\Debug\Movie.Confirmation.resources
+F:\Movie\Movie\obj\Debug\Movie.CustomerLogin.resources
+F:\Movie\Movie\obj\Debug\Movie.Home.resources
+F:\Movie\Movie\obj\Debug\Movie.Login.resources
+F:\Movie\Movie\obj\Debug\Movie.ManageEmployee.resources
+F:\Movie\Movie\obj\Debug\Movie.ManagerHome.resources
+F:\Movie\Movie\obj\Debug\Movie.Properties.Resources.resources
+F:\Movie\Movie\obj\Debug\Movie.SetMovie.resources
+F:\Movie\Movie\obj\Debug\Movie.SignUp.resources
+F:\Movie\Movie\obj\Debug\Movie.TicketHistory.resources
+F:\Movie\Movie\obj\Debug\Movie.Upcomings.resources
+F:\Movie\Movie\obj\Debug\Movie.csproj.GenerateResource.cache
+F:\Movie\Movie\obj\Debug\Movie.csproj.CoreCompileInputs.cache
+F:\Movie\Movie\obj\Debug\Movie.csproj.CopyComplete
+F:\Movie\Movie\obj\Debug\Movie.exe
+F:\Movie\Movie\obj\Debug\Movie.pdb
+F:\Movie\Movie\obj\Debug\Movie.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Movie\Movie\bin\Debug\Movie.exe.config
+C:\Users\USER\Desktop\Movie\Movie\bin\Debug\Movie.exe
+C:\Users\USER\Desktop\Movie\Movie\bin\Debug\Movie.pdb
+C:\Users\USER\Desktop\Movie\Movie\bin\Debug\MetroFramework.Design.dll
+C:\Users\USER\Desktop\Movie\Movie\bin\Debug\MetroFramework.dll
+C:\Users\USER\Desktop\Movie\Movie\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.AdminHome.resources
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.BuyTicket.resources
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.ChangePassword.resources
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.Confirmation.resources
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.CustomerLogin.resources
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.Home.resources
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.Login.resources
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.ManageEmployee.resources
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.ManagerHome.resources
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.Properties.Resources.resources
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.SetMovie.resources
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.SignUp.resources
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.TicketHistory.resources
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.Upcomings.resources
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.csproj.CopyComplete
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.exe
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.pdb
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.HomeOfAdmin.resources
+C:\Users\USER\Desktop\Movie\Movie\obj\Debug\Movie.PreviousTicketHistory.resources
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\bin\Debug\Movie.exe.config
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\bin\Debug\Movie.exe
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\bin\Debug\Movie.pdb
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\bin\Debug\MetroFramework.Design.dll
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\bin\Debug\MetroFramework.dll
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\bin\Debug\MetroFramework.Fonts.dll
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.csprojAssemblyReference.cache
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.AdminHome.resources
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.BuyTicket.resources
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.ChangePassword.resources
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.Confirmation.resources
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.CustomerLogin.resources
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.Home.resources
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.HomeOfAdmin.resources
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.Login.resources
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.ManageEmployee.resources
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.ManagerHome.resources
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.PreviousTicketHistory.resources
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.Properties.Resources.resources
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.SetMovie.resources
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.SignUp.resources
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.TicketHistory.resources
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.Upcomings.resources
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.csproj.GenerateResource.cache
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.csproj.CoreCompileInputs.cache
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.csproj.CopyComplete
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.exe
+E:\S T U D Y\Previous Semesters\8th Semester\C#\PROJECT\Movie\Movie\obj\Debug\Movie.pdb
